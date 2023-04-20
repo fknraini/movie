@@ -1,4 +1,4 @@
-# jobhunt-fe
+# list movie
 
 ## Project setup
 ```
