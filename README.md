@@ -1,5 +1,9 @@
 # list movie
 
+## Fitur
+- menampilkan daftar film berupa gambar dan judul film
+- terdapat tombol yang dapat mendirect langsung ke url film untuk ditonton
+
 ## Project setup
 ```
 yarn install
